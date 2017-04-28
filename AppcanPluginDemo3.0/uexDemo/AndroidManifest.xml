@@ -1,0 +1,9 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<manifest>
+    <activity android:name="com.test.HelloAppCanNativeActivity"/>
+    <activity android:name="com.test.MainActivity"/>
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest> -->
