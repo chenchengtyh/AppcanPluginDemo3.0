@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2016.  The AppCan Open Source Project.
+  ~
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU Lesser General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU Lesser General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU Lesser General Public License
+  ~  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  ~
+  -->
+
+<resources>
+    <!--uexDemo use-->
+    <color name="plugin_uexDemo_textColor">#000000</color>
+     <!-- LIST BORDER COLOR -->
+    <color name="rounded_container_border">#ffb7babb</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+    <color name="base_start_color_pressed">#fffcfcfc</color>
+    <color name="base_end_color_pressed">#ffd7d7d7</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    
+    <color name="colorPrimary">@color/colorPageDark</color>
+    <color name="colorPrimaryDark">@color/colorPageDark</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorText">#303030</color>
+
+    <color name="colorPageLight">#FEEEB6</color>
+    <color name="colorPageDark">#FECB2F</color>
+
+    <color name="actionbar_bg">#aa000000</color>
+    <color name="tagedit_field_text">@android:color/white</color>
+    <color name="tagedit_field_bg">#d8000000</color>
+    <color name="preset_text">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="preset_bg">#ff666666</color>
+    <color name="ccc_red">#b9121b</color>
+    <color name="ccc_blue">#0000bb</color>
+    <color name="ccc_darkred">#4c1b1b</color>
+    <color name="ccc_beige">#f6e497</color>
+    <color name="ccc_white">#fcfae1</color>
+    <color name="ccc_ocher">#ffffb9</color>
+    <color name="grey">#0F0F0F</color>
+    <color name="stroke">#000</color>
+    <color name="problem">#F0F</color>
+    <color name="motorway">#809BC0</color>
+    <color name="trunk">#7FC97F</color>
+    <color name="primary">#E46D71</color>
+    <color name="secondary">#FDBF6F</color>
+    <color name="tertiary">#FCFA74</color>
+    <color name="red">#FF0000</color>
+    <color name="unclassified">#FFFFFF</color>
+    <color name="residential">#FFFFFF</color>
+    <color name="living_street">#FFFFFF</color>
+    <color name="service">#FFFFFF</color>
+    <color name="pedestrian">#EEEEEE</color>
+    <color name="cycleway">#D0E9D0</color>
+    <color name="footway">#DCA86B</color>
+    <color name="bridleway">#70B971</color>
+    <color name="tracktype">#C69C49</color>
+    <color name="river">#B5D6F1</color>
+    <color name="tram">#656565</color>
+    <color name="station">#D80000</color>
+    <color name="halt">#EF2B2B</color>
+    <color name="power">#BABABA</color>
+    <color name="building">#CC9999</color>
+    <color name="leisure">#BDE3CB</color>
+    <color name="college">#DFAFDD</color>
+    <color name="parking">#F7EFB7</color>
+    <color name="forest">#71BE80</color>
+    <color name="retail">#FEEAEA</color>
+    <color name="commercial">#FBFEC8</color>
+    <color name="water">#B5D6F1</color>
+    <color name="bug_open">#F00</color>
+    <color name="bug_closed">#00F</color>
+    <color name="button_grey">#DCDCDC</color>
+
+    <!-- copied -->
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="ccc_green">#73B273</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_transparent">#e0000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="item_common">#F111</color>
+    <color name="item_1">#F222</color>
+    <color name="item_2">#F000</color>
+    <color name="orange">#FFF48B00</color>
+    <color name="darkorange">#FF824600</color>
+    <color name="transparent_gray">#A000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#bfbfbf</color>
+    <color name="blue">#368bc1</color>
+    <color name="half_tran">#00000000</color>
+    <color name="balck">#000000</color>
+    <color name="green">#00ff00</color>
+    <color name="color_1">#FFFFFF</color>
+    <color name="color_2">#FCFF2C</color>
+    <color name="color_3">#FF835D</color>
+    <color name="color_4">#FE0002</color>
+    <color name="color_5">#FF49C8</color>
+    <color name="color_6">#CB85FF</color>
+    <color name="color_7">#38A8FE</color>
+    <color name="color_8">#0001FC</color>
+    <color name="color_9">#16CC79</color>
+    <color name="color_10">#019333</color>
+    <color name="color_11">#036830</color>
+    <color name="color_12">#A5A5A5</color>
+    <color name="color_13">#727272</color>
+    <color name="color_14">#303030</color>
+    <color name="color_15">#000000</color>
+    <color name="color_16">#72b372</color>
+    <color name="color_while">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="featurecolor">#73B273</color>
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+
+    <color name="color_headtext">#FF666666</color>
+    <color name="light_blue_bg">#165f9e</color>
+    <color name="light_blue">#1e80d2</color>
+</resources>
