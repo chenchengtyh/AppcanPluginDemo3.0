@@ -1,1 +1,1 @@
-APPCANедуусКм©я╩г╘вж╡Е╪Ч
+APPCAN photo and sign plus
